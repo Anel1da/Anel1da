@@ -1,6 +1,6 @@
 ### Всем привет :raised_hands:
 ____
-#### Меня зовут Лидия и я начинающий фронт-энд разработчик из Санкт-Петербурга 
+#### Меня зовут Лидия и я начинающий фронт-энд разработчик из Санкт-Петербурга  :metal:
 
 [<img alt="Telegram" src="https://img.shields.io/badge/@anel1da-2CA5E0?style=flat&logo=telegram&logoColor=white" />](https://t.me/Anel1da)
 [<img alt="Instagram" src="https://img.shields.io/badge/anel1da-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/>](https://instagram.com/anel1da)
