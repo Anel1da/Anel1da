@@ -20,8 +20,8 @@ ____
 
 ### :link: Github Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anel1da&theme=gruvbox)](https://github.com/anel1da) </br>
-![Anel1da's GitHub stats](https://github-readme-stats.vercel.app/api?username=anel1da&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anel1da)](https://github.com/anel1da)
+![Anel1da's GitHub stats](https://github-readme-stats.vercel.app/api?username=anel1da&show_icons=true)
 
 
 
