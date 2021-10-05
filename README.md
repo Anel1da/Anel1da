@@ -20,10 +20,14 @@ ____
 
 ### :link: Github Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anel1da)](https://github.com/anel1da)
-![Anel1da's GitHub stats](https://github-readme-stats.vercel.app/api?username=anel1da&show_icons=true)
-
-
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=anel1da&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=anel1da&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anel1da&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anel1da&layout=compact" />
+</a>
+</div>
 
 <!--
 **Anel1da/Anel1da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
