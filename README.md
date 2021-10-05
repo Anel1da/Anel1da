@@ -8,7 +8,7 @@ ____
 
 - :hatching_chick: Студентка Яндекс.Практикум
 - :see_no_evil: Ищу свою первую работу в IT
-- :raised_hands: Буду рада стать частью спроченой комады и попробовать свои силы в новых проектах
+- :cat: Проделала путь из ветеринара в веб-разботчика
 
 ____
 
@@ -18,6 +18,9 @@ ____
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" /> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 ____
 
+### :link: Github Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anel1da&layout=compact)](https://github.com/anel1da)
 
 
 <!--
