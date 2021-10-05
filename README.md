@@ -5,7 +5,7 @@ ____
 [<img alt="Telegram" src="https://img.shields.io/badge/@anel1da-2CA5E0?style=flat&logo=telegram&logoColor=white" />](https://t.me/Anel1da)
 [<img alt="Instagram" src="https://img.shields.io/badge/anel1da-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/>](https://instagram.com/anel1da)
 [<img alt="email" src="https://img.shields.io/badge/anel1da@yandex.ru-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:anel1da@yandex.ru) 
-
+#### Обо мне: 
 - :hatching_chick: Студентка Яндекс.Практикум
 - :see_no_evil: Ищу свою первую работу в IT
 - :cat: Проделала путь из ветеринара в веб-разботчика
