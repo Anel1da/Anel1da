@@ -7,8 +7,8 @@ ____
 [<img alt="email" src="https://img.shields.io/badge/anel1da@yandex.ru-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:anel1da@yandex.ru) 
 #### Обо мне: 
 - :hatching_chick: Студентка Яндекс.Практикум
-- :see_no_evil: Ищу свою первую работу в IT
-- :cat: На пути из ветеринарии в веб-разработку
+- :see_no_evil: Ищу свой путь в IT
+
 
 ____
 
